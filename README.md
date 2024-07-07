@@ -1,4 +1,4 @@
-# Money Tracker App
+# Money Tracker WebApp
 
 A simple web application for managing expenses and income. Built using HTML, CSS, Node.js, and MongoDB.
 
