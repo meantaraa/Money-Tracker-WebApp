@@ -1,0 +1,93 @@
+body {
+    background-color: #E0F7EA;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #2E7D32;
+}
+
+.input-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #A5D6A7;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.input-section label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.input-section input, .input-section select {
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.input-section button {
+    padding: 10px 20px;
+    background-color: #388E3C;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.input-section button:hover {
+    background-color: #2E7D32;
+}
+
+.expenses-list {
+    margin: 20px 0;
+    background-color: #A5D6A7;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #66BB6A;
+    color: white;
+}
+
+tfoot td {
+    font-weight: bold;
+    background-color: #A5D6A7;
+}
+
+.delete-btn {
+    padding: 5px 10px;
+    background-color: #D32F2F;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.delete-btn:hover {
+    background-color: #B71C1C;
+}
