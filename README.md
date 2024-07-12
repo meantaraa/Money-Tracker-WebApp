@@ -11,7 +11,7 @@ A simple web application for managing expenses and income. Built using HTML, CSS
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/meantaraa/money-tracker-app.git
+git clone https:/https://github.com/meantaraa/Money-Tracker-WebApp.git
 
 2. Install dependencies:
 npm install
