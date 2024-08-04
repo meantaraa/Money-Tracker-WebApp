@@ -36,7 +36,3 @@ npm start
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests. Please follow GitHub Flow for collaboration.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
